@@ -14,9 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
