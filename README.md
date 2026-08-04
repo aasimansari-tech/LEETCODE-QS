@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3731-find-missing-elements) |
@@ -49,4 +50,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3731-find-missing-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
