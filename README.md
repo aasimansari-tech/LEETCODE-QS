@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0133-clone-graph) |
 | [3731-find-missing-elements](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
