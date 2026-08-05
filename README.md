@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0010-regular-expression-matching) |
+| [0127-word-ladder](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0127-word-ladder) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0133-clone-graph) |
 | [3731-find-missing-elements](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0207-course-schedule) |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
