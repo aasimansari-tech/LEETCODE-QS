@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -91,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -116,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0743-network-delay-time) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
