@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0994-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -24,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
 ## String
 |  |
@@ -45,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -154,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
