@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0127-word-ladder](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0127-word-ladder) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0127-word-ladder](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0133-clone-graph) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
