@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3731-find-missing-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0127-word-ladder](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0127-word-ladder) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
