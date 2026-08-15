@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/1406-stone-game-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0010-regular-expression-matching) |
 ## Minimax
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
