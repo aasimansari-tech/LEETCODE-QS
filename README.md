@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0200-number-of-islands](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0877-stone-game](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0877-stone-game) |
@@ -226,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aasimansari-tech/LEETCODE-QS/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
